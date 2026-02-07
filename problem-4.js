@@ -27,6 +27,6 @@ function gonoVote(array) {
     }
 }
 
-const array=12345;
+const array=["ha", "na", "na", "na"];
 const outPut=gonoVote(array);
 console.log(outPut);
